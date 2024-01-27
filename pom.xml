@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.university</groupId>
-	<artifactId>payment_for_utilities</artifactId>
+	<artifactId>java_sonar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>payment_for_utilities</name>
